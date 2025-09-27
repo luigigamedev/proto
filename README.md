@@ -1,3 +1,5 @@
+A robot programming game built in Java using the Slick2D engine.
+
 Demo Video
 ====================
 https://youtu.be/Zmybs3mddIM
